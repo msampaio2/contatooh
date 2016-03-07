@@ -56,8 +56,5 @@ module.exports = function() {
         });
         return contatoAlterar;
     }
-
-
-
     return controller;
 };
