@@ -11,6 +11,7 @@ var contatos = [{
     nome: 'Contato Exemplo 3',
     email: 'cont3@ empresa.com.br'
 }];
+
 module.exports = function() {
     var controller = {};
     controller.listaContatos = function(req, res) {
