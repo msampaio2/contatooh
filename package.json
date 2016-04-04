@@ -1,0 +1,30 @@
+{
+  "name": "contatooh",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/msampaio2/contatooh.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/msampaio2/contatooh/issues"
+  },
+  "homepage": "https://github.com/msampaio2/contatooh#readme",
+  "dependencies": {
+    "body-parser": "^1.6.7",
+    "ejs": "^0.8.8",
+    "express": "^4.8.8",
+    "express-load": "^1.1.15",
+    "method-override": "^2.1.3",
+    "mongo-sanitize": "^1.0.0",
+    "mongodb": "^1.4.40",
+    "mongoose": "^4.4.4"
+  }
+}
