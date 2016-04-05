@@ -31,3 +31,12 @@ node_modules
 
 # Optional REPL history
 .node_repl_history
+
+.tmp
+.tmp/**
+.idea
+.idea/**
+node_modules
+public/vendor
+public/vendor/**
+dist
